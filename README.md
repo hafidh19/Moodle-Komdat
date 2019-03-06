@@ -112,8 +112,7 @@ Untuk mengatur moodle kita dapat mengakses nya pada menu yang ada di sebelah kir
 Pilih pada bagian Site administration, lalu akan muncul seperti berikut.
 <h3 align='center'><img src="https://i.imgur.com/scrkgIV.png"><h3>
 
-
-Berikut fitur-fitur yang disediakan moodle dan kegunaannya.
+<p>Berikut fitur-fitur yang disediakan moodle dan kegunaannya.
 1.  User Management  
 Dengan adanya fitur ini, moodle menyediakan fasilitas yang membagi 7 lapisan user agar administrator tidak terlalu sibuk dengan keterlibatan dalam mengerjakan seluruh tugas dalam situs tersebut. 7 lapisan user tersebut adalah : Administrator, Course Creator, Teacher, Non-editing teacher, Student dan Guest.  
   
@@ -156,8 +155,7 @@ Dengan fitur ini, teacher dapat membuat paket yang berisi halaman web, grafis, p
 Survey merupakan feedback, quisioner ataupun angket yang dapat digunakan sebagai bahan pembelajaran ataupun kritikan bagi teacher ataupun course. Sehingga kinerja teacher dan isi dari course dapat diperbaiki diwaktu mendatang.  
   
 14.  Wikis  
-Pada aktivitas ini, student dan teacher dapat secara kolaboratif menulis dokumen web tanpa mengetahui bahasa html, langsung dari web browser. Hasilnya dapat berupa hasil kreativitas kelas, kelompok ataupun individu.
-
+Pada aktivitas ini, student dan teacher dapat secara kolaboratif menulis dokumen web tanpa mengetahui bahasa html, langsung dari web browser. Hasilnya dapat berupa hasil kreativitas kelas, kelompok ataupun individu.<p>
 # Pembahasan
 ### Kelebihan-Kekurangan Moodle
 -   Pros:

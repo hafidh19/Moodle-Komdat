@@ -21,9 +21,10 @@ Secara filosofi ada 4 (empat) konsep dari CMS Moodle tersebut terhadap pengemban
 -   Kita akan membutuhkan sebuah working web server ([Apache](https://docs.moodle.org/36/en/Apache "Apache")), database ([MySQL](https://docs.moodle.org/36/en/MySQL "MySQL"),  [MariaDB](https://docs.moodle.org/36/en/MariaDB "MariaDB")  atau  [PostgreSQL](https://docs.moodle.org/36/en/PostgreSQL "PostgreSQL")) dan konfigurasi dari  [PHP](https://docs.moodle.org/36/en/PHP "PHP"). Cek [_release notes_](https://docs.moodle.org/dev/Moodle_3.6_release_notes)  pada dokumentasi pengembangan untuk _software requirements_.
 -   Moodle membutuhkan beberapa ekstensi dari  [PHP](https://docs.moodle.org/36/en/PHP "PHP") .
 ## Apache
-<h3 align='center'><img src="https://www.prodefence.org/wp-content/uploads/2017/06/apache-web-server.png"><h3>
-
+<h1 align='center'><img src="https://www.prodefence.org/wp-content/uploads/2017/06/apache-web-server.png"></h1>
+	
 Apache adalah software web server yang gratis dan bersifat open source. Server ini telah menjadi platform bagi  [46% website di seluruh dunia](https://w3techs.com/technologies/details/ws-apache/all/all). Nama resminya adalah  [Apache HTTP Server](https://httpd.apache.org/), dan software ini dikelola dan dikembangkan oleh Apache Software Foundation. Pada projek ini mengunakan **_Apache2_**.
+
 ### Instalasi Apache
 #### **Automatic Installation**
 Ubuntu
@@ -31,7 +32,7 @@ Ubuntu
     sudo apt install apache2
 
 ## MySQL
-<h3 align='center'><img src="https://waterfall-security.com/static/mysql-logo.jpg"><h3>
+<h3 align='center'><img src="https://waterfall-security.com/static/mysql-logo.jpg"></h3>
 
 MySQL  adalah sebuah server basis data SQL multiuser dan multi-threaded. SQL sendiri adalah salah satu bahasa basis data yang paling populer di dunia. Implementasi program server basis data ini adalah program daemon mysqld dan beberapa program lain serta beberapa pustaka.
 Projek ini menggunakan MySQL karena lebih mudah dalam proses instalasi dan konfigurasinya.
@@ -104,13 +105,13 @@ Setelah sudah melakukan langkah diatas, buka laman [http://localhost:8888/moodle
 
 # Cara Pemakaian
 Langkah pertama yang harus dilakukan adalah login sebgai admin, yang mana username dan passwordnya kita buat pada instalasi diatas. Setelah berhasil masuk anda akan diarahkan kehalaman seperti berikut.
-<h3 align='center'><img src="https://i.imgur.com/fgcxA6M.png"><h3>
+<h3 align='center'><img src="https://i.imgur.com/fgcxA6M.png"></h3>
 
 Untuk mengatur moodle kita dapat mengakses nya pada menu yang ada di sebelah kiri laman. 
-<h3 align='center'><img src="https://i.imgur.com/fPKacEH.png"><h3>
+<h3 align='center'><img src="https://i.imgur.com/fPKacEH.png"></h3>
 
 Pilih pada bagian Site administration, lalu akan muncul seperti berikut.
-<h3 align='center'><img src="https://i.imgur.com/scrkgIV.png"><h3>
+<h3 align='center'><img src="https://i.imgur.com/scrkgIV.png"></h3>
 
 Berikut fitur-fitur yang disediakan moodle dan kegunaannya.
 1.  User Management  

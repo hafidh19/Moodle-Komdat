@@ -188,6 +188,6 @@ Pada aktivitas ini, student dan teacher dapat secara kolaboratif menulis dokumen
 Versi open source gratis eFront tidak memiliki fungsionalitas dan sertifikasi eCommerce, serta integrasi media sosial.
 
 # Referensi
-[Moodle](https://moodle.org/)
-[wiearthabatch7](https://wiearthabatch7.wordpress.com/2013/01/21/kelebihan-dan-kekurangan-moodle-dan-edmodo/)
- [Alya's Update](http://alyafaba.blogspot.com/2016/05/kelebihan-dan-kekurangan-e-front.html)
+1. [Moodle](https://moodle.org/)
+2. [Kelebihan dan Kekurangan Moodle](https://wiearthabatch7.wordpress.com/2013/01/21/kelebihan-dan-kekurangan-moodle-dan-edmodo/)
+3. [Kelebihan dan Kekurangan eFront](http://alyafaba.blogspot.com/2016/05/kelebihan-dan-kekurangan-e-front.html)

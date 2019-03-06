@@ -111,6 +111,7 @@ Untuk mengatur moodle kita dapat mengakses nya pada menu yang ada di sebelah kir
 
 Pilih pada bagian Site administration, lalu akan muncul seperti berikut.
 <h3 align='center'><img src="https://i.imgur.com/scrkgIV.png"><h3>
+
 Berikut fitur-fitur yang disediakan moodle dan kegunaannya.
 1.  User Management  
 Dengan adanya fitur ini, moodle menyediakan fasilitas yang membagi 7 lapisan user agar administrator tidak terlalu sibuk dengan keterlibatan dalam mengerjakan seluruh tugas dalam situs tersebut. 7 lapisan user tersebut adalah : Administrator, Course Creator, Teacher, Non-editing teacher, Student dan Guest.  
